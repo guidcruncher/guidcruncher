@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guidcruncher
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning APIs
+- 🌱 I’m currently learning Vue, Nuxt, React, Mongo
 - 💞️ I’m looking to collaborate on anything of interest
 - 📫 How to reach me Linktree
 - 😄 Pronouns: He/Him
